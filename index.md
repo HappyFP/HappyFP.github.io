@@ -1,5 +1,5 @@
 # Hello World
-Welcome to my home page! My name is Riley Labraor, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) . I'm a Cinema and Television Arts Major and a Computer Science Minor! Take a look at my projects!
+Welcome to my home page! My name is Riley Labraor, and I am a student at [Cal State Fullerton](http://www.fullerton.edu/). I'm a Cinema and Television Arts Major and a Computer Science Minor! Take a look at my projects!
 
 ## Computer Science Projects
 
